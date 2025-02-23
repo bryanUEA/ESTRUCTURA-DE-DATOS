@@ -1,0 +1,15 @@
+C:\Users\HP\Documents\GitHub\ESTRUCTURA-DE-DATOS\ESTRUCTURA\bin\Debug\net9.0\ESTRUCTURA.exe
+C:\Users\HP\Documents\GitHub\ESTRUCTURA-DE-DATOS\ESTRUCTURA\bin\Debug\net9.0\ESTRUCTURA.deps.json
+C:\Users\HP\Documents\GitHub\ESTRUCTURA-DE-DATOS\ESTRUCTURA\bin\Debug\net9.0\ESTRUCTURA.runtimeconfig.json
+C:\Users\HP\Documents\GitHub\ESTRUCTURA-DE-DATOS\ESTRUCTURA\bin\Debug\net9.0\ESTRUCTURA.dll
+C:\Users\HP\Documents\GitHub\ESTRUCTURA-DE-DATOS\ESTRUCTURA\bin\Debug\net9.0\ESTRUCTURA.pdb
+C:\Users\HP\Documents\GitHub\ESTRUCTURA-DE-DATOS\ESTRUCTURA\obj\Debug\net9.0\ESTRUCTURA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\GitHub\ESTRUCTURA-DE-DATOS\ESTRUCTURA\obj\Debug\net9.0\ESTRUCTURA.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\GitHub\ESTRUCTURA-DE-DATOS\ESTRUCTURA\obj\Debug\net9.0\ESTRUCTURA.AssemblyInfo.cs
+C:\Users\HP\Documents\GitHub\ESTRUCTURA-DE-DATOS\ESTRUCTURA\obj\Debug\net9.0\ESTRUCTURA.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\GitHub\ESTRUCTURA-DE-DATOS\ESTRUCTURA\obj\Debug\net9.0\ESTRUCTURA.sourcelink.json
+C:\Users\HP\Documents\GitHub\ESTRUCTURA-DE-DATOS\ESTRUCTURA\obj\Debug\net9.0\ESTRUCTURA.dll
+C:\Users\HP\Documents\GitHub\ESTRUCTURA-DE-DATOS\ESTRUCTURA\obj\Debug\net9.0\refint\ESTRUCTURA.dll
+C:\Users\HP\Documents\GitHub\ESTRUCTURA-DE-DATOS\ESTRUCTURA\obj\Debug\net9.0\ESTRUCTURA.pdb
+C:\Users\HP\Documents\GitHub\ESTRUCTURA-DE-DATOS\ESTRUCTURA\obj\Debug\net9.0\ESTRUCTURA.genruntimeconfig.cache
+C:\Users\HP\Documents\GitHub\ESTRUCTURA-DE-DATOS\ESTRUCTURA\obj\Debug\net9.0\ref\ESTRUCTURA.dll

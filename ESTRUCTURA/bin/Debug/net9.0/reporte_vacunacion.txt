@@ -1,0 +1,6 @@
+Reporte de Vacunación COVID
+---------------------------------
+Ciudadanos no vacunados: 350
+Ciudadanos vacunados con ambas dosis: 0
+Ciudadanos vacunados solo con Pfizer: 75
+Ciudadanos vacunados solo con AstraZeneca: 75
